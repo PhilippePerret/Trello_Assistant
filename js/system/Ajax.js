@@ -62,7 +62,7 @@ class Ajax {
 
   static traiteErrorInRetour(retour){
     return new Promise((ok,ko) => {
-      if ( retour.error ) {
+      if ( retour && retour.error ) {
         erreur(retour.error)
       } else {
         ok(retour)

@@ -1,8 +1,193 @@
---- [2020-12-02 07:11:16 +0100] Entrée dans ajax.rb
-APP_FOLDER = "/Users/philippeperret/Sites/__WebApp_Scaffold__"
+--- [2021-05-16 10:54:54 +0200] Entrée dans ajax.rb
+APP_FOLDER = "/Users/philippeperret/Sites/TrelloAssistant"
 Chargement des modules
-Chargement module '/Users/philippeperret/Sites/__WebApp_Scaffold__/ajax/ajax/required/app/app_constants.rb'
-Chargement module '/Users/philippeperret/Sites/__WebApp_Scaffold__/ajax/ajax/required/system/String.rb'
-Chargement module '/Users/philippeperret/Sites/__WebApp_Scaffold__/ajax/ajax/required/system/handies.rb'
-Chargement module '/Users/philippeperret/Sites/__WebApp_Scaffold__/ajax/ajax/required/system/String_RTF.rb'
-Chargement module '/Users/philippeperret/Sites/__WebApp_Scaffold__/ajax/ajax/required/system/db.rb'
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/app/app_constants.rb'
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/system/String.rb'
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/system/Array.rb'
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/system/Nil.rb'
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/system/handies.rb'
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/system/Handies_files.rb'
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/system/Integer.rb'
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/system/Hash.rb'
+Nombre de fichiers .DS_Store détruits : 0
+params: pourvoir
+--- [2021-05-16 10:55:43 +0200] Entrée dans ajax.rb
+APP_FOLDER = "/Users/philippeperret/Sites/TrelloAssistant"
+Chargement des modules
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/app/app_constants.rb'
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/system/String.rb'
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/system/Array.rb'
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/system/Nil.rb'
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/system/handies.rb'
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/system/Handies_files.rb'
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/system/Integer.rb'
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/system/Hash.rb'
+Nombre de fichiers .DS_Store détruits : 0
+params: pourvoir
+--- [2021-05-16 10:55:49 +0200] Entrée dans ajax.rb
+APP_FOLDER = "/Users/philippeperret/Sites/TrelloAssistant"
+Chargement des modules
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/app/app_constants.rb'
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/system/String.rb'
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/system/Array.rb'
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/system/Nil.rb'
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/system/handies.rb'
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/system/Handies_files.rb'
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/system/Integer.rb'
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/system/Hash.rb'
+Nombre de fichiers .DS_Store détruits : 0
+--- [2021-05-16 10:56:10 +0200] Entrée dans ajax.rb
+APP_FOLDER = "/Users/philippeperret/Sites/TrelloAssistant"
+Chargement des modules
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/app/app_constants.rb'
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/system/String.rb'
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/system/Array.rb'
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/system/Nil.rb'
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/system/handies.rb'
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/system/Handies_files.rb'
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/system/Integer.rb'
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/system/Hash.rb'
+Nombre de fichiers .DS_Store détruits : 0
+params: {var1:"Ma première variable"}
+--- [2021-05-16 10:56:51 +0200] Entrée dans ajax.rb
+APP_FOLDER = "/Users/philippeperret/Sites/TrelloAssistant"
+Chargement des modules
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/app/app_constants.rb'
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/system/String.rb'
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/system/Array.rb'
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/system/Nil.rb'
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/system/handies.rb'
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/system/Handies_files.rb'
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/system/Integer.rb'
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/system/Hash.rb'
+Nombre de fichiers .DS_Store détruits : 0
+ERREUR: undefined method `params' for JSON:Module
+Did you mean?  parse
+BACKTRACE ERREUR: /Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/_scripts/sample_script_with_params.rb:7:in `<top (required)>'
+/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/ajax_class.rb:18:in `require_relative'
+/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/ajax_class.rb:18:in `treate_request'
+/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax.rb:12:in `<main>'
+--- [2021-05-16 10:57:03 +0200] Entrée dans ajax.rb
+APP_FOLDER = "/Users/philippeperret/Sites/TrelloAssistant"
+Chargement des modules
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/app/app_constants.rb'
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/system/String.rb'
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/system/Array.rb'
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/system/Nil.rb'
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/system/handies.rb'
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/system/Handies_files.rb'
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/system/Integer.rb'
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/system/Hash.rb'
+Nombre de fichiers .DS_Store détruits : 0
+ERREUR: 767: unexpected token at '{var1:"Ma première variable"}'
+BACKTRACE ERREUR: /Users/philippeperret/.rbenv/versions/2.6.3/lib/ruby/2.6.0/json/common.rb:156:in `parse'
+/Users/philippeperret/.rbenv/versions/2.6.3/lib/ruby/2.6.0/json/common.rb:156:in `parse'
+/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/_scripts/sample_script_with_params.rb:7:in `<top (required)>'
+/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/ajax_class.rb:18:in `require_relative'
+/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/ajax_class.rb:18:in `treate_request'
+/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax.rb:12:in `<main>'
+--- [2021-05-16 10:57:30 +0200] Entrée dans ajax.rb
+APP_FOLDER = "/Users/philippeperret/Sites/TrelloAssistant"
+Chargement des modules
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/app/app_constants.rb'
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/system/String.rb'
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/system/Array.rb'
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/system/Nil.rb'
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/system/handies.rb'
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/system/Handies_files.rb'
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/system/Integer.rb'
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/system/Hash.rb'
+Nombre de fichiers .DS_Store détruits : 0
+ERREUR: no implicit conversion of Hash into String
+BACKTRACE ERREUR: /Users/philippeperret/.rbenv/versions/2.6.3/lib/ruby/2.6.0/json/common.rb:156:in `initialize'
+/Users/philippeperret/.rbenv/versions/2.6.3/lib/ruby/2.6.0/json/common.rb:156:in `new'
+/Users/philippeperret/.rbenv/versions/2.6.3/lib/ruby/2.6.0/json/common.rb:156:in `parse'
+/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/_scripts/sample_script_with_params.rb:7:in `<top (required)>'
+/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/ajax_class.rb:18:in `require_relative'
+/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/ajax_class.rb:18:in `treate_request'
+/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax.rb:12:in `<main>'
+--- [2021-05-16 10:57:43 +0200] Entrée dans ajax.rb
+APP_FOLDER = "/Users/philippeperret/Sites/TrelloAssistant"
+Chargement des modules
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/app/app_constants.rb'
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/system/String.rb'
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/system/Array.rb'
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/system/Nil.rb'
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/system/handies.rb'
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/system/Handies_files.rb'
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/system/Integer.rb'
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/system/Hash.rb'
+Nombre de fichiers .DS_Store détruits : 0
+params: {:var1=>"Ma premi\u00E8re variable"}
+--- [2021-05-16 10:58:43 +0200] Entrée dans ajax.rb
+APP_FOLDER = "/Users/philippeperret/Sites/TrelloAssistant"
+Chargement des modules
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/app/app_constants.rb'
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/system/String.rb'
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/system/Array.rb'
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/system/Nil.rb'
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/system/handies.rb'
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/system/Handies_files.rb'
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/system/Integer.rb'
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/system/Hash.rb'
+Nombre de fichiers .DS_Store détruits : 0
+ERREUR: undefined method `force_encoding' for {:var1=>"Ma premi\u00E8re variable"}:Hash
+BACKTRACE ERREUR: /Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/_scripts/sample_script_with_params.rb:7:in `<top (required)>'
+/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/ajax_class.rb:18:in `require_relative'
+/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/ajax_class.rb:18:in `treate_request'
+/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax.rb:12:in `<main>'
+--- [2021-05-16 10:58:57 +0200] Entrée dans ajax.rb
+APP_FOLDER = "/Users/philippeperret/Sites/TrelloAssistant"
+Chargement des modules
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/app/app_constants.rb'
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/system/String.rb'
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/system/Array.rb'
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/system/Nil.rb'
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/system/handies.rb'
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/system/Handies_files.rb'
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/system/Integer.rb'
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/system/Hash.rb'
+Nombre de fichiers .DS_Store détruits : 0
+params: {:var1=>"Ma premi\u00E8re variable"}
+--- [2021-05-16 10:59:15 +0200] Entrée dans ajax.rb
+APP_FOLDER = "/Users/philippeperret/Sites/TrelloAssistant"
+Chargement des modules
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/app/app_constants.rb'
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/system/String.rb'
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/system/Array.rb'
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/system/Nil.rb'
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/system/handies.rb'
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/system/Handies_files.rb'
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/system/Integer.rb'
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/system/Hash.rb'
+Nombre de fichiers .DS_Store détruits : 0
+ERREUR: undefined method `decode' for "{var1:\"Ma premi\u00E8re variable\"}":String
+Did you mean?  encode
+BACKTRACE ERREUR: /Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/_scripts/sample_script_with_params.rb:7:in `<top (required)>'
+/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/ajax_class.rb:18:in `require_relative'
+/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/ajax_class.rb:18:in `treate_request'
+/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax.rb:12:in `<main>'
+--- [2021-05-16 11:01:30 +0200] Entrée dans ajax.rb
+APP_FOLDER = "/Users/philippeperret/Sites/TrelloAssistant"
+Chargement des modules
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/app/app_constants.rb'
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/system/String.rb'
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/system/Array.rb'
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/system/Nil.rb'
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/system/handies.rb'
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/system/Handies_files.rb'
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/system/Integer.rb'
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/system/Hash.rb'
+Nombre de fichiers .DS_Store détruits : 0
+--- [2021-05-16 11:04:17 +0200] Entrée dans ajax.rb
+APP_FOLDER = "/Users/philippeperret/Sites/TrelloAssistant"
+Chargement des modules
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/app/app_constants.rb'
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/system/String.rb'
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/system/Array.rb'
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/system/Nil.rb'
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/system/handies.rb'
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/system/Handies_files.rb'
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/system/Integer.rb'
+Chargement module '/Users/philippeperret/Sites/TrelloAssistant/ajax/ajax/required/system/Hash.rb'
+Nombre de fichiers .DS_Store détruits : 0

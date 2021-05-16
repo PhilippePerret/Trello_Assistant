@@ -70,6 +70,14 @@ class Ajax
       self << {error: e.message, backtrace: e.backtrace}
     end
 
+    # 
+    # Spécialement pour TrelloAssitant, pour pouvoir utiliser
+    # Ajax.with dans les scripts
+    # 
+    def with
+      eval(param(:with))
+    end
+
     def param key
       # v = cgi.params[key.to_s]
       # v = v[0] if v.count == 1
